@@ -9,7 +9,7 @@ int main(void)
 {
 	char a;
 
-	f0r (a = 'a'; a <= 'z' ; a++)
+	for (a = 'a'; a <= 'z' ; a++)
 	{
 		if (a == 'q' || a == 'e')
 		{
