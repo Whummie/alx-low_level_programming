@@ -19,9 +19,9 @@ int main(void)
 			if (i != 19 || j != 19)
 			{	
 				putchar(',');
-				putchar(' ');
 			}
 		}
-	}	
+	}
+	putchar('\n');	
 	return (0);
 }
