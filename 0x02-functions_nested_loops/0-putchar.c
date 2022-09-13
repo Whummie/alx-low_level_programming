@@ -9,15 +9,16 @@
  */
 int main(void)
 {
-	putchar('_');
-	putchar('P');
-	putchar('u');
-	putchar('t');
-	putchar('c');
-	putchar('h');
-	putchar('a');
-	putchar('r');
-	putchar('s');
+	_putchar('_');
+	_putchar('P');
+	_putchar('u');
+	_putchar('t');
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('r');
+	_putchar('s');
+
 	putchar('\n');
 	return (0);
 }
