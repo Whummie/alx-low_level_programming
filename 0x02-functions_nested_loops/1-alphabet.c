@@ -1,9 +1,9 @@
-#include <unistd.h>
+#include <main.h>
 
 /**
- * print_alphabet -prints alphabet
+ * main - check the code
  *
- * Return: always return 0
+ * Return: always 0
  *
  */
 void print_alphabet(void)
