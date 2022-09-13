@@ -1,7 +1,6 @@
-#include <stdio>
 #include "main"
 /**
- * _is lower - main function
+ * _islower - main function
  *
  * @c: character to compare
  *
