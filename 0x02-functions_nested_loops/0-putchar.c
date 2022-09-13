@@ -5,7 +5,7 @@
  *
  * Return: Always return 0
  *
- */i
+ */
 int main(void)
 {
 	putchar('P');
