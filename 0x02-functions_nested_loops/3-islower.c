@@ -1,10 +1,10 @@
 #include "main"
 /**
- * _islower - main function
+ * _islower - function to check for lowercase character
  *
- * @c: character to compare
+ * @c: is the int that will use for the argument of the function
  *
- * Return: 1 if true, 0 if false
+ * Return: 0
  *
  */
 
