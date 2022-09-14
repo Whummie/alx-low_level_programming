@@ -1,7 +1,7 @@
-include "main.h"
+#include "main.h"
 
 /**
- * main -Entry point
+ * main -Print putchar
  *
  * Return: Always return 0
  *
