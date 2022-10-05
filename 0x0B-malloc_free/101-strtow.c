@@ -7,7 +7,7 @@
   *
   * Return: number of words
   */
- int count_word(char *s)
+int count_word(char *s)
 {
 	int flag, c, w;
 
@@ -49,8 +49,7 @@ char **strtow(char *str)
 	if (matrix == NULL)
 		return (NULL);
 
-	for (i = 0; i <= len; i++)
-		
+	for (i = 0; i <= len; i++)		
 	{
 		if (str[i] == ' ' || str[i] == '\0')
 		{
